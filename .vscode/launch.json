@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://MaJayin.github.io/vscode_projects-master",
+            "request": "launch",
+            "url": "http://MaJayin.github.io/vscode_projects-master"
+        }
+    ]
+}
